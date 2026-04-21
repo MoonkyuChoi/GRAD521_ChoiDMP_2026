@@ -1,6 +1,5 @@
 # GRAD521_ChoiDMP_2026
 
-Description of project the Great Project
 This is going to be a Data Management Plan for GRAD521. 
 
 ## Goals
@@ -8,4 +7,5 @@ The purpose of the study is to observe the effect of Pacific dulse (Devaleraea m
 This is going to be a Data Management Plan for GRAD521.
 
 ## Hypothesis 
-1. The consumption of Pacific dulse will improve the cardiometabolic health of overweight and obese adults 
+1. The consumption of Pacific dulse will improve the cardiometabolic health of overweight and obese adults. 
+2. The consumption of Pacific dulse will improve the gut microbiome of overweight and obese adults. 
